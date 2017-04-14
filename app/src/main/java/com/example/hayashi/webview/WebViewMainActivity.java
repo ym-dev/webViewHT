@@ -12,6 +12,7 @@ import android.webkit.WebViewClient;
 public class WebViewMainActivity extends Activity {
 
     private WebView mWebView = null;
+    //コメントYM
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
